@@ -1,1 +1,1 @@
-FROM gcr.io/google_samples/k8szk:v1
+FROM gcr.io/google_containers/kubernetes-dashboard-amd64:v1.5.1
