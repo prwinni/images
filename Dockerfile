@@ -1,1 +1,1 @@
-FROM gcr.io/kubernetes-e2e-test-images/jessie-dnsutils-amd64:1.0
+FROM gcr.io/google_containers/kube-apiserver-amd64:v1.9.0
