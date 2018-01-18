@@ -1,1 +1,1 @@
-FROM quay.io/coreos/flannel:v0.9.1-amd64
+FROM gcr.io/google_containers/k8s-dns-kube-dns-amd64:1.14.7
