@@ -1,1 +1,1 @@
-FROM kube-discovery-amd64:1.9
+FROM kube-discovery-amd64:1.0
