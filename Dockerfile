@@ -1,1 +1,1 @@
-FROM docker.io/istio/proxy_debug:0.4.0
+FROM prom/statsd-exporter:v0.5.0
