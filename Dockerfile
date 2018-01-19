@@ -1,1 +1,1 @@
-FROM prom/statsd-exporter:v0.5.0
+FROM docker.io/istio/mixer:0.4.0
