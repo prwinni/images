@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/kubernetes-dashboard-amd64:v1.8.2
+FROM docker.io/istio/istio-ca:0.4.0
