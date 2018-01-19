@@ -1,1 +1,1 @@
-FROM docker.io/istio/istio-ca:0.4.0
+FROM docker.io/istio/proxy_debug:0.4.0
