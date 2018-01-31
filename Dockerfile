@@ -1,1 +1,1 @@
-FROM docker.io/istio/mixer:0.4.0
+FROM docker.io/istio/istio-ca:0.5.0
