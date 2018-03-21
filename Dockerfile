@@ -1,1 +1,1 @@
-FROM docker.io/istio/proxy:0.5.0
+FROM quay.io/prometheus/alertmanager:latest
