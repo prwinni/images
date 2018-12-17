@@ -1,1 +1,1 @@
-FROM quay.io/prometheus/alertmanager:latest
+FROM quay.io/external_storage/nfs-client-provisioner:latest
