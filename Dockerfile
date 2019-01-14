@@ -1,1 +1,1 @@
-FROM quay.io/external_storage/nfs-client-provisioner:latest
+FROM k8s.gcr.io/busybox:latest
