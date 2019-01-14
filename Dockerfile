@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/busybox:latest
+FROM k8s.gcr.io/liveness:latest
