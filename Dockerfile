@@ -1,1 +1,1 @@
-FROM docker.io/istio/kubectl:1.3.4
+FROM istio/kubectl:1.5.0
