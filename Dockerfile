@@ -1,1 +1,1 @@
-FROM istio/proxyv2:1.5.0
+FROM istio/pilot:1.5.0
