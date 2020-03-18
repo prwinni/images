@@ -1,1 +1,1 @@
-FROM istio/sidecar_injector:1.5.0
+FROM prom/prometheus:v2.12.0
