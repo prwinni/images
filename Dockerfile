@@ -1,1 +1,1 @@
-FROM istio/pilot:1.5.0
+FROM istio/mixer:1.5.0
