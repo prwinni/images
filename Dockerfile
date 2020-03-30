@@ -1,1 +1,1 @@
-FROM prom/prometheus:v2.12.0
+FROM quay.io/kubernetes-service-catalog/service-catalog:v0.2.2
