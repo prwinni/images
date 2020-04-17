@@ -1,2 +1,2 @@
-FROM quay.io/coreos/etcd:latest
+FROM quay.io/kubernetes-service-catalog/minibroker:canary
 
