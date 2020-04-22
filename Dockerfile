@@ -1,2 +1,2 @@
-FROM quay.io/kubernetes-service-catalog/minibroker:canary
+FROM gcr.io/kubernetes-helm/tiller:v2.13.1
 
