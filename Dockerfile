@@ -1,2 +1,2 @@
-FROM gcr.io/kubernetes-helm/tiller:v2.13.1
+FROM siji/mariadb-broker:1.0.0
 
