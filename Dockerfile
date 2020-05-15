@@ -1,2 +1,2 @@
-FROM siji/mariadb-broker:1.0.0
+FROM siji/jpress:1.0
 
