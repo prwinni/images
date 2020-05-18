@@ -1,2 +1,2 @@
-FROM siji/jpress:1.0
+FROM wordpress:4.9-apache
 
