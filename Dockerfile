@@ -1,2 +1,1 @@
-FROM wordpress:4.9-apache
-
+FROM grafana/grafana:7.0.5
