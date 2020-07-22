@@ -1,1 +1,1 @@
-FROM grafana/grafana:7.0.5
+FROM nacos/nacos-server
