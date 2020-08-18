@@ -1,1 +1,1 @@
-FROM nacos/nacos-peer-finder-plugin:1.0
+FROM nacos/nacos-mysql:5.7
