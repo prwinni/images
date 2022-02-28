@@ -1,1 +1,1 @@
-FROM docker.io/istio/pilot:1.10.1
+FROM  kubernetesui/dashboard:v2.5.0
