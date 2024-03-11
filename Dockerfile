@@ -1,1 +1,1 @@
-FROM kubernetesui/dashboard:v2.5.0
+FROM gcr.io/k8s-staging-gateway-api/admission-server:v0.6.0
